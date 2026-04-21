@@ -125,9 +125,9 @@ Makes the camera directly follow the player's horizontal position in real time.
 | Camera Follow | ✅ Complete |
 | Room Camera | ✅ Complete |
 | Enemy AI | ⏳ Not started |
-| Health System | ⏳ Not started |
+| Health System | ✅ Complete |
 | Collectibles | ⏳ Not started |
-| Level Design | ⏳ Not started |
+| Level Design | ✅ Complete |
 
 ---
 
